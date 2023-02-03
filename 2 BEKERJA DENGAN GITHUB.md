@@ -1,0 +1,2 @@
+# BEKERJA DENGAN GITHUB
+Pada video kedua berjudul “#2 BEKERJA DENGAN GITHUB”, diperlihatkan penggunaan awal github mulai dari pembuatan akun github hingga pembuatan repository baru. Pada repository baru yang telah dibuat, dibuat suatu file text baru yang kemudian dicommit. Commit yang dilakukan dideskripsikan pada commit description dan kemudian dapat pilih untuk commit pada branch atau repository utama. File di dalam repository juga kemudian dapat diedit lagi dan dicommit kembali.
